@@ -25,6 +25,8 @@ I was unable to extract some images from the given design in desktop and mobile 
 
 ### Screenshots :
 Responsive Checker Link : https://ui.dev/amiresponsive?url=https://nnnirajn.github.io/intraedge.github.io/
+
+
 ![image](https://github.com/nnnirajn/intraedge.github.io/assets/33897387/d2c0c6ca-0819-485f-99b8-f45ad4b44cec)
 
 
