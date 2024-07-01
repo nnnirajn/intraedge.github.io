@@ -12,9 +12,9 @@ Created a complete responsive HTML Page using HTML5, CSS3 and javascript.
 5. Media Query 
 
 ### Third Party Library :
-1. SLick ( For Slider )
+1. Slick ( For Slider )
 2. Jquery ( Dependency for Slick )
-3. AOS - Animate on scroll library (For obLoad animation) 
+3. AOS - Animate on scroll library (For onLoad animation) 
 
 ### How to Run Project :
 To Run the project, need to open the below link in any browser 
