@@ -533,6 +533,7 @@ Hero Section Start
 
 .sidebar .insider-submenu .insider-wrap {
   width: 100%;
+  margin-bottom: 14px;
 }
 
 .sidebar .insider-submenu .insider-wrap.newsletter {
@@ -557,7 +558,7 @@ Hero Section Start
 }
 
 .sidebar .insider-submenu .insider-wrap p {
-  margin-bottom: 32px;
+  margin-bottom: 20px;
   font-size: 16px;
 }
 
@@ -566,7 +567,7 @@ Hero Section Start
 }
 
 .sidebar .arrow-cta {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .sidebar .menu-link {
