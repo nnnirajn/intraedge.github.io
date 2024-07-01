@@ -21,7 +21,8 @@ To Run the project, need to open the below link in any browser
 https://nnnirajn.github.io/intraedge.github.io/
 
 ### Small Assumptions :
-I was unable to extract some images from the given design in desktop and mobile versions so I have added the same images.
+1. I was unable to extract some images from the given design in desktop and mobile versions so I have added the same images.
+2. I have added '#' for all href in anchor tags.
 
 ### Screenshots :
 Responsive Checker Link : https://ui.dev/amiresponsive?url=https://nnnirajn.github.io/intraedge.github.io/
